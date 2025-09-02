@@ -28,7 +28,7 @@ Patients can upload an image, fill in their details (name, gender, symptoms, Wha
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Clone the repo
 
@@ -59,28 +59,9 @@ npm start
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * [ ] Connect trained AI model for real predictions
 * [ ] Generate downloadable PDF medical reports
 * [ ] Secure patient data with authentication
 * [ ] Expand to multi-disease analysis
-
----
-
-## 👨‍💻 Contributors
-
-* **Saroj Chaudhuri** – WhatsApp Integration Engineer
-* *(Add your teammates and their roles here)*
-
----
-
-## 📜 License
-
-This project is for educational and prototype purposes only.
-
----
-
-👉 This format is professional, beginner-friendly, and makes your repo look good for both **hackathons & resumes**.
-
-Do you want me to also create a **README.md file content** with emojis & styling (like badges, shields for tech stack, etc.) to make it even more attractive?
